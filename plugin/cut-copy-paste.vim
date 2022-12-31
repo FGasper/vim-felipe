@@ -1,4 +1,4 @@
-# copy
+" copy
 vnoremap <C-C> y
 vnoremap <D-C> y
 vnoremap <C-X> x
