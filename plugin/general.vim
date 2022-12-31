@@ -7,3 +7,5 @@ set hlsearch
 set incsearch
 
 set backspace=indent,eol,start
+
+set tabstop=4
