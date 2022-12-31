@@ -5,3 +5,5 @@ syntax enable
 
 set hlsearch
 set incsearch
+
+set backspace=indent,eol,start
