@@ -1,7 +1,7 @@
 set list
 
 function! _setFGTabs()
-    set listchars=trail:_,lead:*,leadmultispace:*...
+    set listchars=trail:_,lead:*,leadmultispace:*...,tab:>-
 endfunction
 
 function! _setFGSpaces()
