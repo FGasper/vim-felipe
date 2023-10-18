@@ -5,6 +5,7 @@ syntax enable
 
 set hlsearch
 set incsearch
+set smoothscroll
 
 set backspace=indent,eol,start
 
